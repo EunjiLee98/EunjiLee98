@@ -1,6 +1,6 @@
 # 💜 Hi, I'm Eunji 💜 
 
-[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiLee98)](https://github.com/anuraghazra/github-readme-stats)
+[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiLee98)](https://github.com/EunjiLee98/github-readme-stats)
 
 ### 👩🏻‍💻 Studying 👩🏻‍💻
 ## <img src="https://img.shields.io/badge/Flutter-8dbff7?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FAEB78?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/C-c4b3f5?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-f5b3db?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-87EEC6?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-739BE1?style=flat-square&logo=mysql&logoColor=white"/> 
