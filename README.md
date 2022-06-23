@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I'm Eunji 👋
 
 [![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiLee98)](https://github.com/anuraghazra/github-readme-stats)
 
