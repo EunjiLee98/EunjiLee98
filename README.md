@@ -3,7 +3,7 @@
 [![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiLee98)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👩🏻‍💻 Studying 👩🏻‍💻
-## <img src="https://img.shields.io/badge/Flutter-FFCA28?style=flat-square&logo=flutter&logoColor=white"/>
+## <img src="https://img.shields.io/badge/Flutter-8dbff7?style=flat-square&logo=flutter&logoColor=white"/>
 <!--
 **EunjiLee98/EunjiLee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
